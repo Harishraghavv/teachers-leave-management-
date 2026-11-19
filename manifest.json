@@ -1,0 +1,18 @@
+{
+    "name": "Teacher Leave & OD System",
+    "short_name": "TeacherLeave",
+    "description": "Faculty Leave and On-Duty Management System - Dept of Computer Science",
+    "start_url": "./index.php",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#FFFFFF",
+    "theme_color": "#1E40AF",
+    "icons": [
+        {
+            "src": "assets/images/logo.png",
+            "sizes": "192x192 512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
